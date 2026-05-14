@@ -1,0 +1,4 @@
+pywin32==305
+psutil==5.9.5
+pyttsx3==2.90
+plyer==2.1.0

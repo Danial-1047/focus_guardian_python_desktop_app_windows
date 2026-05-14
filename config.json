@@ -1,0 +1,12 @@
+{
+  "check_interval_seconds": 3,
+  "focus_mode": "work",                          
+  "allowed_apps": ["vscode", "code","chrome" , "explorer", "cmd", "pwsh", "powershell", "terminal"],
+  "allowed_site_keywords": ["ChatGPT", "Google", "docs", "Stack Overflow", "StackOverflow"],
+  "site_keywords_not_allowed": ["facebook", "twitter", "instagram", "reddit" ],
+  "block_voice": "Hey {name}, refocus — this looks like a distraction!",
+  "name": "Danial",
+  "snooze_seconds": 10,
+  "min_time_before_alert_seconds": 5,
+  "idle_limit":10
+}
