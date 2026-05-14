@@ -51,9 +51,3 @@ Privacy & Safety
 ----------------
 - This app runs locally and stores a small local SQLite database. No data is sent to the cloud.
 - If you want to add an option to ignore certain windows, edit `config.json`.
-
-Extending the app
------------------
-- Add a GUI (PySimpleGUI or Electron) to toggle focus modes and view logs.
-- Add website detection via browser debug protocol for more accuracy.
-- Add an optional locking mechanism (password) for stronger discipline.
